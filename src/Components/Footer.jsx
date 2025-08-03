@@ -3,13 +3,13 @@ import { SiGithub, SiInstagram, SiLinkedin } from "react-icons/si";
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white border-t border-gray-700 py-12 mt-16">
+    <footer id='contact' className="bg-black text-white border-t border-gray-700 py-12 mt-16">
       <div className="max-w-4xl mx-auto px-6">
 
         <div className="flex flex-col md:flex-row justify-between items-start mb-8">
           <div className="mb-6 md:mb-0">
             <h3 className="text-xl font-semibold text-white mb-2">Sameer</h3>
-            <p className="text-gray-400 text-sm">Full Stack Developer</p>
+            <p className="text-gray-400 text-sm">Frontend Developer</p>
           </div>
 
           <div className="flex flex-col items-center md:items-end">
@@ -61,6 +61,9 @@ const Footer = () => {
           <p className="text-gray-400 text-xs">
             &copy; {new Date().getFullYear()} Sameer.
           </p>
+        </div>
+        <div className='flex justify-center items-center'>
+        <p className="text-slate-900 opacity-35  text-xs">JMM</p>
         </div>
       </div>
     </footer>

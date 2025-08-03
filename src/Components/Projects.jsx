@@ -20,7 +20,7 @@ const projectList = [
   },
   {
     title: 'NuroLink',
-    description: 'An application, used to practice cognitive games.',
+    description: 'An application, used to improve cognitive ability and memory through games.',
     tech: ['Node.js', 'ejs', 'RESTapi', 'MongoDB', 'Router','GEMINI api'],
     link:'https://github.com/the-samarium/NeuroLink.git',
   },
@@ -29,7 +29,7 @@ const projectList = [
 const Projects = () => {
   return (
     <>
-      <div className='w-full h-auto flex flex-col justify-center items-center p-3 sm:p-5'>
+      <div id='projects' className='w-full h-auto flex flex-col justify-center items-center p-3 sm:p-5'>
         <div className="w-full flex justify-start mb-3">
           <h2 className="text-xl sm:text-2xl text-black font-bold">Projects</h2>
         </div>
@@ -60,7 +60,7 @@ const Projects = () => {
                 </div>
                 <div>
                   {project.tech.map((val, id2) => (
-                    <span key={id2} className='p-1 bg-slate-700 rounded-md text-blue-500 text-[10px] mr-1'>
+                    <span key={id2} className='p-1 bg-white rounded-md text-blue-800 text-[10px] mr-1'>
                       {val}
                     </span>
                   ))}

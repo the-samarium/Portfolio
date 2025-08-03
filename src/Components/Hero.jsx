@@ -5,7 +5,7 @@ import { motion, useScroll } from "motion/react"
 
 const Hero = () => {
     return (
-        <div className='w-full min-h-[400px] pr-6 sm:h-[340px] flex flex-col sm:flex-row gap-4 mt-2 p-4 sm:pr-2'>
+        <div id='hero' className='w-full min-h-[400px] pr-6 sm:h-[340px] flex flex-col sm:flex-row gap-4 mt-2 p-4 sm:pr-2'>
 
             <div className='w-full mt-1 sm:w-3/5 h-full flex flex-col justify-center px-4 sm:px-8'>
                 <div className="mb-4">
@@ -48,7 +48,7 @@ const Hero = () => {
                             }}
                             className="text-xl sm:text-2xl md:text-3xl font-bold text-black whitespace-nowrap  absolute top-0 left-0"
                         >
-                            Frontend Dev
+                            Frontend Developer
                         </motion.h1>
                     </motion.div>
 
@@ -58,7 +58,7 @@ const Hero = () => {
 
                 </div>
                 <p className="text-sm sm:text-base text-gray-500 font-light">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur accusamus nam commodi praesentium eligendi laudantium reprehenderit minus, mollitia nihil quas, natus voluptatibus omnis aperiam! Fugit, dolore? Quis tenetur, minima consequuntur veniam natus reprehenderit provident? Eos tenetur iste, totam tempore cupiditate blanditiis vel! Illum voluptate vitae cumque possimus a qui tempore!
+                    A dedicated Electronics and Telecommunication Engineering student at VIIT with an impressive 8.7 GPA, I'm passionate about both semiconductor technology and software development. Currently focused on mastering backend technologies while maintaining strong academic performance. My interests span from hardware engineering to modern software solutions, making me a versatile technologist ready to contribute to innovative projects.
                 </p>
                 <div className='links flex flex-row  items-center p-2 gap-5 mt-5'>
                     <a
