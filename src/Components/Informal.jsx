@@ -10,7 +10,7 @@ const Informal = () => {
         <div className="flex-1 flex flex-col">
           <h3 className="text-base sm:text-lg font-semibold mb-2">Hi there,</h3>
           <p className="text-sm font-light sm:text-sm leading-relaxed">
-            I can code for hours fueled by nothing but coffee and my incredibly diverse playlist! When I'm not debugging, you'll catch me binge-watching sci-fi series, exploring foreign films, rewatching comfort shows for the hundredth time, or discovering hidden gem documentaries. My music taste knows no boundaries—I literally. There's always something playing that matches my coding energy.
+            I can code for hours fueled by nothing but coffee and my incredibly diverse playlist! When I'm not debugging, you'll catch me binge-watching series, exploring  films, rewatching comfort shows for the hundredth time, or discovering hidden gem documentaries. My music taste knows no boundaries— literally. 
           </p>
           <div className='mt-5'>
             <p className="text-sm sm:text-base leading-relaxed">Watching :</p>
