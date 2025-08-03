@@ -23,7 +23,7 @@ const Footer = () => {
             >
               Get in touch
             </a>
-            <p className='text-xs mt-4'>arcanevoyger25@gmail.com</p>
+            
           </div>
         </div>
 
