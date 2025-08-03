@@ -15,7 +15,8 @@ const Informal = () => {
           <div className='mt-5'>
             <p className="text-sm sm:text-base leading-relaxed">Watching :</p>
             <div className='bg-white w-[65px] h-[65px] rounded-sm content-fit border border-white mt-5'>
-              <img src="/Assets/reacher.jpg" alt="reacher" />
+              <a target='_blank' href="https://youtu.be/GSycMV-_Csw?si=M_t6dkn2oopODe1o" ><img src="/Assets/reacher.jpg" alt="reacher"  /></a>
+              
             </div>
           </div>
         </div>
