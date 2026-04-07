@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sameer Rajkumar Chavan
 
-# Run and deploy your AI Studio app
+**Engineer · Edge AI · MLOps**  
+Pune, India · [github.com/the-samarium](https://github.com/the-samarium) · [linkedin.com/in/chavan-sameer](https://linkedin.com/in/chavan-sameer)
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/026c6633-4217-462f-bad4-3e74144cd935
+## About
 
-## Run Locally
+Third-year Electronics & Telecommunication Engineering student at VIIT, Pune (graduating 2027), specializing in AI/ML engineering and edge AI systems. I build production-oriented AI infrastructure — from computer vision pipelines on constrained hardware to LLM-powered developer tooling.
 
-**Prerequisites:**  Node.js
+---
+
+## Skills
+
+| Area | Tools & Frameworks |
+|---|---|
+| ML / AI | YOLOv8, OpenVINO, SAM, LangChain, LangGraph, FAISS, Chroma (Vector dbs) |
+| LLMs | Gemini, Claude, Ollama (qwen2.5-coder), RAGAS, DeepEval |
+| Backend | FastAPI, Flask, PostgreSQL, MinIO |
+| Languages | Python, JavaScript/TypeScript |
+| DevOps / Infra | Docker, Git, Linux |
+| Frontend | Next.js, React |
+
+---
+
+## Education
+
+**B.Tech — Electronics & Telecommunication Engineering**  
+Vishwakarma Institute of Information Technology (VIIT), Pune  
+*2023 – 2027*
+
+---
+
+## Currently
+
+- Learning LangGraph and agentic system design
+- Open to **AI/ML Engineer** and **MLOps/AI Infra** roles at startups
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
