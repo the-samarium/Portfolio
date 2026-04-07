@@ -16,9 +16,9 @@ Third-year Electronics & Telecommunication Engineering student at VIIT, Pune (gr
 | Area | Tools & Frameworks |
 |---|---|
 | ML / AI | YOLOv8, OpenVINO, SAM, LangChain, LangGraph, FAISS, Chroma (Vector dbs) |
-| LLMs | Gemini, Claude, Ollama (qwen2.5-coder), RAGAS, DeepEval |
-| Backend | FastAPI, Flask, PostgreSQL, MinIO |
-| Languages | Python, JavaScript/TypeScript |
+| LLMs | Gemini, Claude, Ollama, RAGAS|
+| Backend | FastAPI |
+| Languages | Python, C, C++ |
 | DevOps / Infra | Docker, Git, Linux |
 | Frontend | Next.js, React |
 
